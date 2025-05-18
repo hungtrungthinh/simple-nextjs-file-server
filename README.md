@@ -1,4 +1,6 @@
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-yellow?logo=buy-me-a-coffee&logoColor=white&style=for-the-badge)](https://buymeacoffee.com/x45qn8k)
+<a href="https://buymeacoffee.com/x45qN8k" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" style="border-radius:8px" />
+</a>
 
 # Simple Nextjs File Server
 
