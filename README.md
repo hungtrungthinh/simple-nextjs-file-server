@@ -1,3 +1,5 @@
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-yellow?logo=buy-me-a-coffee&logoColor=white&style=for-the-badge)](https://buymeacoffee.com/x45qn8k)
+
 # Simple Nextjs File Server
 
 This is a simple file server built with Next.js. Its purpose is to let you create static file links and manually upload any files you want to share into the `public` directory.
