@@ -2,6 +2,10 @@
 // Repo: https://github.com/hungtrungthinh/nextjs-file-server
 // Project: Simple Nextjs File Server
 
+export const metadata = {
+  title: '403 Forbidden',
+};
+
 function randomRequestId() {
   return Array.from({ length: 20 }, () =>
     'ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789'[Math.floor(Math.random() * 36)]
