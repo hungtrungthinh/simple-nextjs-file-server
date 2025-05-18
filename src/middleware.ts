@@ -1,7 +1,6 @@
 // Author: Thinh Nguyen
 // Repo: https://github.com/hungtrungthinh/nextjs-file-server
 // Project: Simple Nextjs File Server
-// https://github.com/thinhnguyenvan/simple-nextjs-file-server
 
 import { NextResponse } from 'next/server';
 import type { NextRequest } from 'next/server';

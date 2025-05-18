@@ -1,7 +1,6 @@
 // Author: Thinh Nguyen
 // Repo: https://github.com/hungtrungthinh/nextjs-file-server
 // Project: Simple Nextjs File Server
-// https://github.com/thinhnguyenvan/simple-nextjs-file-server
 
 function randomRequestId() {
   return Array.from({ length: 20 }, () =>
